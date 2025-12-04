@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "僕クエスト",
+  "base_artist": "ゴールデンボンバー",
+  "createdAt": "2025-12-04T18:27:38.412891Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "僕クエスト",
+      "artist": "Golden Bomber",
+      "has_synced": false,
+      "path": "select/01_僕クエスト_Golden_Bomber.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "僕クエスト",
+      "artist": "GOLDEN BOMBER",
+      "has_synced": true,
+      "path": "select/02_僕クエスト_GOLDEN_BOMBER.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Boku Quest (僕クエスト)",
+      "artist": "Golden Bomber (ゴールデンボンバー)",
+      "has_synced": false,
+      "path": "select/03_Boku_Quest_(僕クエスト)_Golden_Bomber_(ゴールデンボンバー).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕クエスト",
+      "artist": "ゴールデンボンバー",
+      "has_synced": false,
+      "path": "select/pl_01_僕クエスト_ゴールデンボンバー.txt"
+    }
+  ]
+}
